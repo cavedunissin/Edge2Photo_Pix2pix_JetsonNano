@@ -1,6 +1,6 @@
 # Pytorch深度學習框架X NVIDIA JetsonNano應用-pix2pix圖片自動填色
 
-![images](images/result.gif)
+![images](Images/result.gif)
 
 | 作者 | Chia-Chun, Chang |
 | ---- | ---|
